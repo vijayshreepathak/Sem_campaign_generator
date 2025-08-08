@@ -202,5 +202,4 @@ Free for personal and commercial use — attribution appreciated.
 ```
 
 ---
-- Also produce a PNG export of the Mermaid diagram (if you prefer an image fallback for viewers that don't render Mermaid). Which would you like next?
 ```
