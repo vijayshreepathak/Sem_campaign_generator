@@ -45,7 +45,6 @@ sem\_campaign\_generator/
    ```bash
    git clone https://github.com/vijayshreepathak/Sem_campaign_generator.git
    cd Sem_campaign_generator
-````
 
 2. **Set up a virtual environment**
 
