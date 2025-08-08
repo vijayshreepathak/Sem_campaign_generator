@@ -88,26 +88,36 @@ filters:
 
 ```mermaid
 flowchart TD
-    A[config.yaml] --> B[Main Script main.py]
-    B --> C[Keyword Generator]
-    C --> D[Data Processor]
-    D --> E[Campaign Builder]
-    E --> F[Exporter]
-    F --> G[Excel/CSV Output]
-
     subgraph User_Inputs
-        A
+        A[config.yaml]
     end
 
     subgraph Processing
-        C
-        D
-        E
+        B[Main Script: main.py]
+        C[Keyword Generator]
+        D[Data Processor]
+        E[Campaign Builder]
     end
 
     subgraph Output
-        G
+        F[Exporter]
+        G[Excel/CSV Output Files]
     end
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#f3e5f5
+    style D fill:#f3e5f5
+    style E fill:#f3e5f5
+    style F fill:#e8f5e8
+    style G fill:#e8f5e8
 
 
 
