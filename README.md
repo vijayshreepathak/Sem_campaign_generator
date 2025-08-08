@@ -198,8 +198,3 @@ Free for personal and commercial use — attribution appreciated.
 **Vijayshree Vaibhav** (Ex-Snapchat, Cube)
 
 ---
-
-```
-
----
-```
