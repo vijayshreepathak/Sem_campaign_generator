@@ -111,6 +111,7 @@ flowchart TD
 
 
 
+
 **How it works:**
 1. **Config File** — Defines brand, competitor, filters, and campaign rules.
 2. **Keyword Generator** — Expands seed terms and fetches related keywords.
