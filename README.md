@@ -84,7 +84,6 @@ filters:
 ```
 
 ---
-
 ## 🖥 System Design Diagram
 
 ```mermaid
@@ -97,19 +96,19 @@ flowchart TD
     F --> G[Excel/CSV Output]
 
     subgraph User Inputs
-    A
+        A
     end
 
     subgraph Processing
-    C
-    D
-    E
+        C
+        D
+        E
     end
 
     subgraph Output
-    G
+        G
     end
-```
+
 
 **How it works:**
 1. **Config File** — Defines brand, competitor, filters, and campaign rules.
