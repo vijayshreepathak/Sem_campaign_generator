@@ -1,0 +1,59 @@
+# SEM Campaign Summary Report
+Generated on: 2025-08-08 12:10:07
+Author: Vijayshree Vaibhav
+
+## Campaign Configuration
+Brand: Nutrabay
+Competitor: BigMuscles Nutrition
+Service Locations: Mumbai, Delhi, Bengaluru, Pune, Hyderabad
+
+## Budget Allocation
+Search Campaigns: $4,000
+Shopping Campaigns: $3,000
+Performance Max: $3,000
+Total Monthly Budget: $10,000
+
+## Keywords Summary
+Total Processed Keywords: 580
+
+Keywords by Theme:
+  • Location-based Queries: 272
+  • Category Terms: 143
+  • Long-Tail Informational: 118
+  • Brand Terms: 31
+  • Competitor Terms: 16
+
+Keywords by Intent:
+  • Commercial: 230
+  • Informational: 204
+  • Transactional: 117
+  • Navigational: 29
+
+## Search Campaign Structure
+Total Ad Groups: 5
+Total Keywords: 116
+  • Brand Terms: 25 keywords
+  • Category Terms: 25 keywords
+  • Location-based Queries: 25 keywords
+  • Long-Tail Informational: 25 keywords
+  • Competitor Terms: 16 keywords
+
+## Performance Max Themes
+Total Themes: 4
+  • Premium Protein Solutions: $1,050 budget
+  • Post-Workout Recovery: $900 budget
+  • Nutrition for Professionals: $600 budget
+  • Fitness Resolution Goals: $450 budget
+
+## Shopping Campaign Structure
+Product Categories: 3
+  • Vegan Protein Products: $0.72 CPC, $1,250 budget
+  • Recovery Supplements: $0.66 CPC, $1,083 budget
+  • General Protein Supplements: $0.54 CPC, $667 budget
+
+## Expected Performance
+Search Campaigns: 8,983 clicks, 179.3 conversions
+Performance Max: 2,428 clicks, 48.6 conversions
+Shopping Campaigns: 4,612 clicks, 92.2 conversions
+
+Total Projected: 16,023 clicks, 320.1 conversions

@@ -1,0 +1,648 @@
+keyword,source,estimated_volume,estimated_competition,estimated_cpc_low,estimated_cpc_high
+whey protein,seed_direct,1652,Medium,0.44,1.16
+protein powder,seed_direct,6780,Medium,0.52,1.32
+gym supplements,seed_direct,1101,Low,0.26,0.75
+fitness nutrition,seed_direct,6274,Low,0.2,0.82
+muscle building supplements,seed_direct,673,Medium,0.56,1.2
+pre workout,seed_direct,2157,Medium,0.6,1.28
+protein isolate,seed_direct,3559,Low,0.26,0.79
+bodybuilding supplements,seed_direct,2229,Medium,0.56,1.29
+sports nutrition,seed_direct,4877,Low,0.21,0.73
+mass gainer,seed_direct,4466,Medium,0.59,1.18
+whey protein mumbai,location_variant,1189,Low,0.24,0.74
+whey protein in mumbai,location_variant,1783,Medium,0.49,1.28
+best whey protein mumbai,location_variant,990,Medium,0.59,1.19
+whey protein near mumbai,location_variant,2770,Medium,0.42,1.17
+mumbai whey protein,location_variant,1935,Low,0.29,0.77
+whey protein delivery mumbai,location_variant,1180,Low,0.23,0.8
+whey protein delhi,location_variant,3891,Medium,0.57,1.34
+whey protein in delhi,location_variant,2003,Medium,0.58,1.19
+best whey protein delhi,location_variant,2970,Medium,0.55,1.24
+whey protein near delhi,location_variant,2427,Low,0.28,0.78
+delhi whey protein,location_variant,1886,Medium,0.56,1.29
+whey protein delivery delhi,location_variant,1258,High,0.7,2.02
+whey protein bengaluru,location_variant,1686,Medium,0.6,1.36
+whey protein in bengaluru,location_variant,735,Low,0.2,0.7
+best whey protein bengaluru,location_variant,2498,Medium,0.43,1.31
+whey protein near bengaluru,location_variant,4098,Low,0.28,0.71
+bengaluru whey protein,location_variant,1231,Low,0.25,0.8
+whey protein delivery bengaluru,location_variant,2817,High,0.87,2.02
+whey protein pune,location_variant,500,Low,0.26,0.75
+whey protein in pune,location_variant,1266,Medium,0.46,1.27
+best whey protein pune,location_variant,2314,Medium,0.54,1.34
+whey protein near pune,location_variant,3481,Medium,0.53,1.32
+pune whey protein,location_variant,685,Medium,0.43,1.24
+whey protein delivery pune,location_variant,4597,Low,0.2,0.71
+whey protein hyderabad,location_variant,608,Medium,0.55,1.37
+whey protein in hyderabad,location_variant,1637,Medium,0.42,1.23
+best whey protein hyderabad,location_variant,2855,Low,0.28,0.71
+whey protein near hyderabad,location_variant,1771,Medium,0.51,1.31
+hyderabad whey protein,location_variant,810,Low,0.26,0.7
+whey protein delivery hyderabad,location_variant,2962,Low,0.24,0.79
+protein powder mumbai,location_variant,2423,Medium,0.51,1.13
+protein powder in mumbai,location_variant,3506,Low,0.28,0.68
+best protein powder mumbai,location_variant,2128,Medium,0.55,1.18
+protein powder near mumbai,location_variant,2602,Medium,0.59,1.22
+mumbai protein powder,location_variant,1186,High,0.74,1.86
+protein powder delivery mumbai,location_variant,3226,Low,0.23,0.81
+protein powder delhi,location_variant,2951,Low,0.3,0.73
+protein powder in delhi,location_variant,931,Low,0.24,0.78
+best protein powder delhi,location_variant,793,Medium,0.58,1.27
+protein powder near delhi,location_variant,540,Medium,0.48,1.23
+delhi protein powder,location_variant,1303,Low,0.27,0.68
+protein powder delivery delhi,location_variant,1179,High,0.84,1.94
+protein powder bengaluru,location_variant,882,Low,0.28,0.69
+protein powder in bengaluru,location_variant,1414,Medium,0.52,1.25
+best protein powder bengaluru,location_variant,2009,Medium,0.53,1.14
+protein powder near bengaluru,location_variant,1578,High,0.83,2.02
+bengaluru protein powder,location_variant,1985,Medium,0.51,1.28
+protein powder delivery bengaluru,location_variant,2686,High,0.86,2.12
+protein powder pune,location_variant,1811,Medium,0.45,1.33
+protein powder in pune,location_variant,2487,High,0.8,1.83
+best protein powder pune,location_variant,3136,Low,0.21,0.73
+protein powder near pune,location_variant,2031,High,0.89,2.08
+pune protein powder,location_variant,1255,Medium,0.56,1.25
+protein powder delivery pune,location_variant,3784,High,0.78,1.86
+protein powder hyderabad,location_variant,1381,Medium,0.47,1.23
+protein powder in hyderabad,location_variant,2315,Medium,0.42,1.18
+best protein powder hyderabad,location_variant,1003,Medium,0.52,1.31
+protein powder near hyderabad,location_variant,3275,Medium,0.6,1.36
+hyderabad protein powder,location_variant,1177,Low,0.26,0.74
+protein powder delivery hyderabad,location_variant,2623,Low,0.26,0.79
+gym supplements mumbai,location_variant,1790,Low,0.21,0.74
+gym supplements in mumbai,location_variant,2415,Low,0.28,0.73
+best gym supplements mumbai,location_variant,1219,High,0.82,2.04
+gym supplements near mumbai,location_variant,3568,Low,0.22,0.73
+mumbai gym supplements,location_variant,1488,High,0.75,1.81
+gym supplements delivery mumbai,location_variant,2512,Medium,0.4,1.33
+gym supplements delhi,location_variant,3683,Low,0.23,0.75
+gym supplements in delhi,location_variant,939,Medium,0.46,1.36
+best gym supplements delhi,location_variant,3523,Medium,0.45,1.23
+gym supplements near delhi,location_variant,1710,Medium,0.57,1.34
+delhi gym supplements,location_variant,1509,Medium,0.44,1.33
+gym supplements delivery delhi,location_variant,3711,Medium,0.49,1.25
+gym supplements bengaluru,location_variant,3190,Low,0.21,0.69
+gym supplements in bengaluru,location_variant,3600,High,0.87,2.0
+best gym supplements bengaluru,location_variant,3540,High,0.78,2.09
+gym supplements near bengaluru,location_variant,2313,Medium,0.55,1.16
+bengaluru gym supplements,location_variant,700,Low,0.26,0.7
+gym supplements delivery bengaluru,location_variant,3106,Medium,0.55,1.29
+gym supplements pune,location_variant,1935,Low,0.3,0.69
+gym supplements in pune,location_variant,1506,Low,0.21,0.72
+best gym supplements pune,location_variant,500,Low,0.23,0.71
+gym supplements near pune,location_variant,1438,Medium,0.58,1.19
+pune gym supplements,location_variant,2609,High,0.73,2.1
+gym supplements delivery pune,location_variant,2775,Medium,0.49,1.32
+gym supplements hyderabad,location_variant,1665,Medium,0.41,1.25
+gym supplements in hyderabad,location_variant,4077,Medium,0.41,1.14
+best gym supplements hyderabad,location_variant,668,Medium,0.58,1.16
+gym supplements near hyderabad,location_variant,928,Medium,0.51,1.23
+hyderabad gym supplements,location_variant,2838,High,0.75,2.16
+gym supplements delivery hyderabad,location_variant,3496,Low,0.2,0.77
+fitness nutrition mumbai,location_variant,2986,High,0.95,2.02
+fitness nutrition in mumbai,location_variant,3288,Medium,0.59,1.14
+best fitness nutrition mumbai,location_variant,2729,Medium,0.48,1.19
+fitness nutrition near mumbai,location_variant,3639,Medium,0.55,1.37
+mumbai fitness nutrition,location_variant,1369,Medium,0.45,1.29
+fitness nutrition delivery mumbai,location_variant,1713,High,0.7,2.03
+fitness nutrition delhi,location_variant,500,High,0.79,2.19
+fitness nutrition in delhi,location_variant,3091,Medium,0.52,1.21
+best fitness nutrition delhi,location_variant,1518,Low,0.21,0.7
+fitness nutrition near delhi,location_variant,3912,Medium,0.45,1.19
+delhi fitness nutrition,location_variant,3259,High,0.91,2.02
+fitness nutrition delivery delhi,location_variant,4118,Low,0.25,0.69
+fitness nutrition bengaluru,location_variant,3575,Medium,0.57,1.31
+fitness nutrition in bengaluru,location_variant,3302,Medium,0.41,1.3
+best fitness nutrition bengaluru,location_variant,1504,Medium,0.51,1.15
+fitness nutrition near bengaluru,location_variant,2956,Low,0.25,0.75
+bengaluru fitness nutrition,location_variant,1070,Medium,0.43,1.36
+fitness nutrition delivery bengaluru,location_variant,2684,High,0.91,2.07
+fitness nutrition pune,location_variant,2252,Low,0.25,0.74
+fitness nutrition in pune,location_variant,3123,Low,0.27,0.76
+best fitness nutrition pune,location_variant,2961,High,0.66,2.01
+fitness nutrition near pune,location_variant,1422,Low,0.28,0.74
+pune fitness nutrition,location_variant,3234,High,0.66,2.11
+fitness nutrition delivery pune,location_variant,2102,Medium,0.44,1.19
+fitness nutrition hyderabad,location_variant,1369,Low,0.22,0.72
+fitness nutrition in hyderabad,location_variant,1567,High,0.88,2.01
+best fitness nutrition hyderabad,location_variant,1568,Medium,0.44,1.34
+fitness nutrition near hyderabad,location_variant,820,Medium,0.58,1.34
+hyderabad fitness nutrition,location_variant,3782,Medium,0.45,1.24
+fitness nutrition delivery hyderabad,location_variant,1149,Medium,0.6,1.32
+muscle building supplements mumbai,location_variant,964,Low,0.2,0.68
+muscle building supplements in mumbai,location_variant,1199,Medium,0.39,1.08
+best muscle building supplements mumbai,location_variant,500,High,0.65,1.6
+muscle building supplements near mumbai,location_variant,1075,Low,0.17,0.62
+mumbai muscle building supplements,location_variant,1961,Medium,0.56,1.22
+muscle building supplements delivery mumbai,location_variant,4673,Medium,0.44,1.09
+muscle building supplements delhi,location_variant,2393,Medium,0.44,1.26
+muscle building supplements in delhi,location_variant,2979,Low,0.18,0.64
+best muscle building supplements delhi,location_variant,1242,High,0.66,1.64
+muscle building supplements near delhi,location_variant,3546,Medium,0.45,0.98
+delhi muscle building supplements,location_variant,2517,Low,0.29,0.75
+muscle building supplements delivery delhi,location_variant,2285,Low,0.17,0.62
+muscle building supplements bengaluru,location_variant,613,Low,0.28,0.72
+muscle building supplements in bengaluru,location_variant,2762,Medium,0.46,1.08
+best muscle building supplements bengaluru,location_variant,4024,Medium,0.36,1.1
+muscle building supplements near bengaluru,location_variant,2918,High,0.55,1.5
+bengaluru muscle building supplements,location_variant,1233,Medium,0.44,1.35
+muscle building supplements delivery bengaluru,location_variant,2889,Low,0.21,0.56
+muscle building supplements pune,location_variant,3640,Medium,0.49,1.28
+muscle building supplements in pune,location_variant,1107,Medium,0.33,1.08
+best muscle building supplements pune,location_variant,1281,Low,0.22,0.6
+muscle building supplements near pune,location_variant,3191,Low,0.24,0.59
+pune muscle building supplements,location_variant,2143,Low,0.3,0.78
+muscle building supplements delivery pune,location_variant,2501,Medium,0.42,0.93
+muscle building supplements hyderabad,location_variant,500,Medium,0.58,1.23
+muscle building supplements in hyderabad,location_variant,898,Medium,0.35,0.9
+best muscle building supplements hyderabad,location_variant,4158,High,0.66,1.61
+muscle building supplements near hyderabad,location_variant,4987,High,0.7,1.72
+hyderabad muscle building supplements,location_variant,1271,Medium,0.42,1.31
+muscle building supplements delivery hyderabad,location_variant,500,High,0.56,1.71
+pre workout mumbai,location_variant,3829,Low,0.28,0.76
+pre workout in mumbai,location_variant,1069,Low,0.27,0.72
+best pre workout mumbai,location_variant,500,Low,0.25,0.8
+pre workout near mumbai,location_variant,1475,Low,0.25,0.73
+mumbai pre workout,location_variant,888,Medium,0.5,1.33
+pre workout delivery mumbai,location_variant,781,High,0.75,1.87
+pre workout delhi,location_variant,685,Low,0.27,0.8
+pre workout in delhi,location_variant,3105,Low,0.21,0.71
+best pre workout delhi,location_variant,1515,Medium,0.43,1.21
+pre workout near delhi,location_variant,1628,High,0.78,2.1
+delhi pre workout,location_variant,3470,Medium,0.53,1.28
+pre workout delivery delhi,location_variant,2348,Medium,0.47,1.34
+pre workout bengaluru,location_variant,1014,Low,0.25,0.82
+pre workout in bengaluru,location_variant,2563,Low,0.26,0.69
+best pre workout bengaluru,location_variant,2292,High,0.86,1.93
+pre workout near bengaluru,location_variant,2099,High,0.86,1.83
+bengaluru pre workout,location_variant,2822,Low,0.22,0.8
+pre workout delivery bengaluru,location_variant,1373,High,0.71,2.13
+pre workout pune,location_variant,1967,Medium,0.46,1.29
+pre workout in pune,location_variant,2294,High,0.86,2.01
+best pre workout pune,location_variant,3390,Medium,0.46,1.18
+pre workout near pune,location_variant,2715,Medium,0.41,1.2
+pune pre workout,location_variant,2130,Medium,0.53,1.36
+pre workout delivery pune,location_variant,1207,Medium,0.57,1.32
+pre workout hyderabad,location_variant,1129,Low,0.28,0.77
+pre workout in hyderabad,location_variant,3688,Low,0.23,0.81
+best pre workout hyderabad,location_variant,4272,Medium,0.53,1.27
+pre workout near hyderabad,location_variant,4045,Medium,0.42,1.24
+hyderabad pre workout,location_variant,2909,Low,0.25,0.8
+pre workout delivery hyderabad,location_variant,2895,Medium,0.51,1.22
+protein isolate mumbai,location_variant,2202,High,0.95,1.84
+protein isolate in mumbai,location_variant,2609,Low,0.24,0.68
+best protein isolate mumbai,location_variant,1945,Medium,0.55,1.35
+protein isolate near mumbai,location_variant,949,Medium,0.46,1.34
+mumbai protein isolate,location_variant,1537,High,0.73,2.16
+protein isolate delivery mumbai,location_variant,500,Low,0.28,0.8
+protein isolate delhi,location_variant,3362,Medium,0.4,1.37
+protein isolate in delhi,location_variant,2035,High,0.87,1.92
+best protein isolate delhi,location_variant,1161,High,0.91,1.91
+protein isolate near delhi,location_variant,2722,Medium,0.57,1.15
+delhi protein isolate,location_variant,2502,Medium,0.54,1.26
+protein isolate delivery delhi,location_variant,3402,Medium,0.42,1.19
+protein isolate bengaluru,location_variant,2844,High,0.64,1.99
+protein isolate in bengaluru,location_variant,1912,Medium,0.46,1.27
+best protein isolate bengaluru,location_variant,3124,Low,0.23,0.72
+protein isolate near bengaluru,location_variant,3926,High,0.88,1.82
+bengaluru protein isolate,location_variant,2080,Medium,0.58,1.34
+protein isolate delivery bengaluru,location_variant,3572,Medium,0.53,1.27
+protein isolate pune,location_variant,876,Low,0.29,0.7
+protein isolate in pune,location_variant,728,Medium,0.42,1.18
+best protein isolate pune,location_variant,912,Medium,0.56,1.13
+protein isolate near pune,location_variant,3411,Medium,0.52,1.37
+pune protein isolate,location_variant,2356,Low,0.29,0.75
+protein isolate delivery pune,location_variant,3519,Medium,0.41,1.33
+protein isolate hyderabad,location_variant,2550,High,0.83,1.85
+protein isolate in hyderabad,location_variant,2276,Low,0.21,0.81
+best protein isolate hyderabad,location_variant,3887,High,0.85,2.13
+protein isolate near hyderabad,location_variant,1914,Medium,0.58,1.27
+hyderabad protein isolate,location_variant,3614,High,0.81,1.97
+protein isolate delivery hyderabad,location_variant,1513,Medium,0.46,1.23
+bodybuilding supplements mumbai,location_variant,897,Medium,0.55,1.28
+bodybuilding supplements in mumbai,location_variant,1244,Medium,0.58,1.24
+best bodybuilding supplements mumbai,location_variant,3680,High,0.83,2.05
+bodybuilding supplements near mumbai,location_variant,1006,Medium,0.52,1.3
+mumbai bodybuilding supplements,location_variant,3451,Medium,0.45,1.25
+bodybuilding supplements delivery mumbai,location_variant,1028,Medium,0.42,1.22
+bodybuilding supplements delhi,location_variant,2510,High,0.8,2.06
+bodybuilding supplements in delhi,location_variant,3120,Medium,0.59,1.28
+best bodybuilding supplements delhi,location_variant,2314,Medium,0.55,1.25
+bodybuilding supplements near delhi,location_variant,2212,Medium,0.53,1.14
+delhi bodybuilding supplements,location_variant,4061,High,0.72,1.94
+bodybuilding supplements delivery delhi,location_variant,1723,Low,0.25,0.68
+bodybuilding supplements bengaluru,location_variant,3153,Medium,0.43,1.19
+bodybuilding supplements in bengaluru,location_variant,2834,Low,0.3,0.72
+best bodybuilding supplements bengaluru,location_variant,3183,Medium,0.5,1.17
+bodybuilding supplements near bengaluru,location_variant,2516,Medium,0.52,1.2
+bengaluru bodybuilding supplements,location_variant,2742,Medium,0.44,1.25
+bodybuilding supplements delivery bengaluru,location_variant,1454,Medium,0.4,1.13
+bodybuilding supplements pune,location_variant,588,Medium,0.44,1.13
+bodybuilding supplements in pune,location_variant,1728,Medium,0.42,1.21
+best bodybuilding supplements pune,location_variant,1682,Low,0.28,0.76
+bodybuilding supplements near pune,location_variant,742,Medium,0.5,1.2
+pune bodybuilding supplements,location_variant,2363,Low,0.29,0.73
+bodybuilding supplements delivery pune,location_variant,952,Low,0.21,0.77
+bodybuilding supplements hyderabad,location_variant,598,Medium,0.42,1.21
+bodybuilding supplements in hyderabad,location_variant,1681,Medium,0.5,1.34
+best bodybuilding supplements hyderabad,location_variant,3802,Medium,0.5,1.3
+bodybuilding supplements near hyderabad,location_variant,4803,Medium,0.6,1.16
+hyderabad bodybuilding supplements,location_variant,1564,Medium,0.45,1.22
+bodybuilding supplements delivery hyderabad,location_variant,3254,High,0.77,1.96
+sports nutrition mumbai,location_variant,1166,Medium,0.58,1.3
+sports nutrition in mumbai,location_variant,4137,Medium,0.52,1.2
+best sports nutrition mumbai,location_variant,3477,Low,0.28,0.82
+sports nutrition near mumbai,location_variant,2926,Medium,0.56,1.13
+mumbai sports nutrition,location_variant,1883,Medium,0.53,1.14
+sports nutrition delivery mumbai,location_variant,667,Medium,0.45,1.14
+sports nutrition delhi,location_variant,841,Medium,0.52,1.3
+sports nutrition in delhi,location_variant,1069,Medium,0.42,1.22
+best sports nutrition delhi,location_variant,3496,Medium,0.49,1.22
+sports nutrition near delhi,location_variant,620,Medium,0.42,1.23
+delhi sports nutrition,location_variant,3174,High,0.88,1.83
+sports nutrition delivery delhi,location_variant,2673,Medium,0.42,1.21
+sports nutrition bengaluru,location_variant,888,High,0.94,2.07
+sports nutrition in bengaluru,location_variant,3867,Low,0.27,0.73
+best sports nutrition bengaluru,location_variant,633,Low,0.26,0.68
+sports nutrition near bengaluru,location_variant,1859,Low,0.26,0.81
+bengaluru sports nutrition,location_variant,3306,Medium,0.52,1.34
+sports nutrition delivery bengaluru,location_variant,1122,High,0.87,1.85
+sports nutrition pune,location_variant,2874,Low,0.29,0.68
+sports nutrition in pune,location_variant,3487,High,0.81,1.86
+best sports nutrition pune,location_variant,3532,Low,0.2,0.74
+sports nutrition near pune,location_variant,698,High,0.73,1.99
+pune sports nutrition,location_variant,2041,Medium,0.52,1.14
+sports nutrition delivery pune,location_variant,2251,Low,0.21,0.76
+sports nutrition hyderabad,location_variant,1648,Medium,0.47,1.31
+sports nutrition in hyderabad,location_variant,4191,Low,0.27,0.8
+best sports nutrition hyderabad,location_variant,3175,Low,0.27,0.74
+sports nutrition near hyderabad,location_variant,2593,Medium,0.53,1.19
+hyderabad sports nutrition,location_variant,801,High,0.74,2.12
+sports nutrition delivery hyderabad,location_variant,1353,Medium,0.49,1.32
+mass gainer mumbai,location_variant,1830,Medium,0.56,1.34
+mass gainer in mumbai,location_variant,925,Medium,0.58,1.23
+best mass gainer mumbai,location_variant,1028,Medium,0.46,1.27
+mass gainer near mumbai,location_variant,4628,Low,0.24,0.77
+mumbai mass gainer,location_variant,609,Medium,0.54,1.3
+mass gainer delivery mumbai,location_variant,1979,Low,0.24,0.7
+mass gainer delhi,location_variant,1901,Low,0.24,0.7
+mass gainer in delhi,location_variant,3538,Medium,0.58,1.21
+best mass gainer delhi,location_variant,4023,Low,0.22,0.68
+mass gainer near delhi,location_variant,1657,Medium,0.53,1.28
+delhi mass gainer,location_variant,1542,Medium,0.47,1.14
+mass gainer delivery delhi,location_variant,1430,Low,0.24,0.72
+mass gainer bengaluru,location_variant,1830,Medium,0.54,1.28
+mass gainer in bengaluru,location_variant,3696,Low,0.24,0.71
+best mass gainer bengaluru,location_variant,1394,High,0.96,1.98
+mass gainer near bengaluru,location_variant,3581,Medium,0.54,1.16
+bengaluru mass gainer,location_variant,2525,High,0.8,1.81
+mass gainer delivery bengaluru,location_variant,640,Medium,0.5,1.37
+mass gainer pune,location_variant,2278,Low,0.24,0.68
+mass gainer in pune,location_variant,2055,Medium,0.41,1.22
+best mass gainer pune,location_variant,3169,High,0.69,1.81
+mass gainer near pune,location_variant,3131,Medium,0.55,1.24
+pune mass gainer,location_variant,1967,High,0.73,2.16
+mass gainer delivery pune,location_variant,3530,High,0.68,2.18
+mass gainer hyderabad,location_variant,905,Low,0.23,0.81
+mass gainer in hyderabad,location_variant,1681,Low,0.26,0.8
+best mass gainer hyderabad,location_variant,1879,Medium,0.6,1.2
+mass gainer near hyderabad,location_variant,4815,Medium,0.59,1.22
+hyderabad mass gainer,location_variant,3037,High,0.76,1.94
+mass gainer delivery hyderabad,location_variant,2531,High,0.81,1.86
+buy whey protein,commercial_variant,1011,High,0.82,2.02
+whey protein price,commercial_variant,2884,High,0.88,2.13
+whey protein cost,commercial_variant,2510,Medium,0.49,1.2
+whey protein online,commercial_variant,2764,Low,0.23,0.7
+best whey protein,commercial_variant,2481,High,0.66,1.94
+whey protein review,commercial_variant,5889,Medium,0.45,1.37
+whey protein reviews,commercial_variant,2907,Low,0.26,0.73
+cheap whey protein,commercial_variant,2935,High,0.83,1.86
+whey protein discount,commercial_variant,2294,Medium,0.49,1.28
+whey protein deals,commercial_variant,739,Medium,0.5,1.23
+whey protein offers,commercial_variant,1097,Low,0.3,0.81
+order whey protein,commercial_variant,2565,Medium,0.52,1.27
+whey protein purchase,commercial_variant,637,Medium,0.52,1.18
+where to buy whey protein,commercial_variant,3107,High,0.61,1.45
+whey protein for sale,commercial_variant,1552,Medium,0.5,1.26
+buy protein powder,commercial_variant,2441,High,0.71,2.19
+protein powder price,commercial_variant,2200,High,0.93,2.09
+protein powder cost,commercial_variant,2982,Low,0.25,0.81
+protein powder online,commercial_variant,500,Medium,0.43,1.32
+best protein powder,commercial_variant,5191,High,0.68,2.12
+protein powder review,commercial_variant,1920,High,0.73,2.15
+protein powder reviews,commercial_variant,731,Low,0.29,0.7
+cheap protein powder,commercial_variant,2792,Low,0.25,0.82
+protein powder discount,commercial_variant,2096,Low,0.25,0.8
+protein powder deals,commercial_variant,4322,Medium,0.52,1.22
+protein powder offers,commercial_variant,2682,Medium,0.46,1.18
+order protein powder,commercial_variant,3522,Medium,0.55,1.22
+protein powder purchase,commercial_variant,1914,Low,0.25,0.75
+where to buy protein powder,commercial_variant,4436,High,0.66,1.72
+protein powder for sale,commercial_variant,5434,Medium,0.6,1.23
+buy gym supplements,commercial_variant,1790,High,0.9,2.11
+gym supplements price,commercial_variant,2463,High,0.82,2.18
+gym supplements cost,commercial_variant,3707,Medium,0.44,1.15
+gym supplements online,commercial_variant,3499,Medium,0.57,1.23
+best gym supplements,commercial_variant,6291,High,0.91,2.16
+gym supplements review,commercial_variant,527,High,0.66,2.15
+gym supplements reviews,commercial_variant,6220,Low,0.24,0.75
+cheap gym supplements,commercial_variant,500,Medium,0.53,1.36
+gym supplements discount,commercial_variant,5694,Medium,0.4,1.24
+gym supplements deals,commercial_variant,1471,Medium,0.54,1.31
+gym supplements offers,commercial_variant,3459,Medium,0.54,1.16
+order gym supplements,commercial_variant,4952,Medium,0.46,1.21
+gym supplements purchase,commercial_variant,1848,High,0.9,1.91
+where to buy gym supplements,commercial_variant,1474,High,0.57,1.75
+gym supplements for sale,commercial_variant,4792,Low,0.2,0.82
+buy fitness nutrition,commercial_variant,3260,High,0.86,2.13
+fitness nutrition price,commercial_variant,4437,High,0.73,1.81
+fitness nutrition cost,commercial_variant,1915,Low,0.27,0.8
+fitness nutrition online,commercial_variant,2668,Medium,0.55,1.16
+best fitness nutrition,commercial_variant,1516,High,0.88,2.11
+fitness nutrition review,commercial_variant,523,Medium,0.53,1.32
+fitness nutrition reviews,commercial_variant,2811,Low,0.28,0.77
+cheap fitness nutrition,commercial_variant,2843,Low,0.21,0.75
+fitness nutrition discount,commercial_variant,1807,Low,0.21,0.74
+fitness nutrition deals,commercial_variant,3325,High,0.77,1.83
+fitness nutrition offers,commercial_variant,2453,Low,0.23,0.69
+order fitness nutrition,commercial_variant,2986,Medium,0.56,1.36
+fitness nutrition purchase,commercial_variant,2034,Low,0.21,0.82
+where to buy fitness nutrition,commercial_variant,6948,High,0.65,1.54
+fitness nutrition for sale,commercial_variant,6209,Medium,0.42,1.25
+buy muscle building supplements,commercial_variant,6107,High,0.89,2.08
+muscle building supplements price,commercial_variant,3489,High,0.66,1.83
+muscle building supplements cost,commercial_variant,3502,Low,0.24,0.72
+muscle building supplements online,commercial_variant,2525,Medium,0.45,1.2
+best muscle building supplements,commercial_variant,6144,High,0.9,2.17
+muscle building supplements review,commercial_variant,1448,Low,0.24,0.81
+muscle building supplements reviews,commercial_variant,3734,High,0.74,1.99
+cheap muscle building supplements,commercial_variant,2856,Low,0.22,0.77
+muscle building supplements discount,commercial_variant,1464,Medium,0.6,1.28
+muscle building supplements deals,commercial_variant,2761,High,0.75,2.06
+muscle building supplements offers,commercial_variant,5079,Medium,0.42,1.35
+order muscle building supplements,commercial_variant,2815,Medium,0.5,1.24
+muscle building supplements purchase,commercial_variant,3337,Medium,0.52,1.28
+where to buy muscle building supplements,commercial_variant,5581,High,0.53,1.66
+muscle building supplements for sale,commercial_variant,3506,Medium,0.36,1.04
+buy pre workout,commercial_variant,3336,High,0.9,2.12
+pre workout price,commercial_variant,4038,High,0.82,2.01
+pre workout cost,commercial_variant,2902,Medium,0.43,1.32
+pre workout online,commercial_variant,1668,High,0.73,2.0
+best pre workout,commercial_variant,4279,High,0.73,1.85
+pre workout review,commercial_variant,3029,Medium,0.53,1.14
+pre workout reviews,commercial_variant,1139,Medium,0.55,1.2
+cheap pre workout,commercial_variant,2858,Medium,0.4,1.25
+pre workout discount,commercial_variant,2140,Medium,0.41,1.19
+pre workout deals,commercial_variant,3426,Low,0.27,0.68
+pre workout offers,commercial_variant,3817,Medium,0.57,1.13
+order pre workout,commercial_variant,3122,High,0.72,2.1
+pre workout purchase,commercial_variant,3944,Low,0.23,0.69
+where to buy pre workout,commercial_variant,754,High,0.6,1.53
+pre workout for sale,commercial_variant,2517,Medium,0.57,1.2
+buy protein isolate,commercial_variant,2967,High,0.89,2.16
+protein isolate price,commercial_variant,7049,High,0.78,2.16
+protein isolate cost,commercial_variant,3590,Low,0.24,0.82
+protein isolate online,commercial_variant,1146,Medium,0.42,1.3
+best protein isolate,commercial_variant,819,High,0.8,1.96
+protein isolate review,commercial_variant,2105,Low,0.26,0.78
+protein isolate reviews,commercial_variant,4033,Medium,0.4,1.17
+cheap protein isolate,commercial_variant,2616,Medium,0.54,1.29
+protein isolate discount,commercial_variant,3068,Medium,0.59,1.32
+protein isolate deals,commercial_variant,2451,Medium,0.59,1.3
+protein isolate offers,commercial_variant,500,Medium,0.46,1.15
+order protein isolate,commercial_variant,1019,High,0.89,2.06
+protein isolate purchase,commercial_variant,5305,Low,0.2,0.73
+where to buy protein isolate,commercial_variant,5588,High,0.76,1.6
+protein isolate for sale,commercial_variant,1760,Medium,0.49,1.24
+buy bodybuilding supplements,commercial_variant,3813,High,0.71,1.95
+bodybuilding supplements price,commercial_variant,2460,High,0.76,1.82
+bodybuilding supplements cost,commercial_variant,4364,Low,0.28,0.74
+bodybuilding supplements online,commercial_variant,2975,High,0.9,2.14
+best bodybuilding supplements,commercial_variant,1981,High,0.71,2.06
+bodybuilding supplements review,commercial_variant,4698,High,0.79,2.15
+bodybuilding supplements reviews,commercial_variant,1018,Medium,0.44,1.29
+cheap bodybuilding supplements,commercial_variant,2660,High,0.83,1.92
+bodybuilding supplements discount,commercial_variant,866,Medium,0.43,1.29
+bodybuilding supplements deals,commercial_variant,1112,Medium,0.55,1.2
+bodybuilding supplements offers,commercial_variant,4314,Low,0.26,0.73
+order bodybuilding supplements,commercial_variant,1412,Medium,0.54,1.17
+bodybuilding supplements purchase,commercial_variant,1373,Low,0.29,0.72
+where to buy bodybuilding supplements,commercial_variant,2388,High,0.61,1.46
+bodybuilding supplements for sale,commercial_variant,5085,High,0.68,2.01
+buy sports nutrition,commercial_variant,6139,High,0.73,2.13
+sports nutrition price,commercial_variant,2729,High,0.64,1.95
+sports nutrition cost,commercial_variant,2920,Medium,0.47,1.13
+sports nutrition online,commercial_variant,3103,Medium,0.42,1.23
+best sports nutrition,commercial_variant,6132,High,0.8,1.96
+sports nutrition review,commercial_variant,1802,Low,0.25,0.76
+sports nutrition reviews,commercial_variant,5203,Medium,0.4,1.24
+cheap sports nutrition,commercial_variant,3483,Low,0.3,0.75
+sports nutrition discount,commercial_variant,2462,Medium,0.54,1.2
+sports nutrition deals,commercial_variant,1111,Low,0.28,0.79
+sports nutrition offers,commercial_variant,2619,High,0.81,2.19
+order sports nutrition,commercial_variant,1966,Medium,0.43,1.13
+sports nutrition purchase,commercial_variant,4204,Medium,0.55,1.33
+where to buy sports nutrition,commercial_variant,1773,High,0.54,1.52
+sports nutrition for sale,commercial_variant,3609,Medium,0.4,1.2
+buy mass gainer,commercial_variant,3187,High,0.89,2.01
+mass gainer price,commercial_variant,1376,High,0.75,1.95
+mass gainer cost,commercial_variant,4667,Medium,0.4,1.2
+mass gainer online,commercial_variant,2453,Medium,0.53,1.37
+best mass gainer,commercial_variant,5596,High,0.91,1.81
+mass gainer review,commercial_variant,500,Medium,0.58,1.32
+mass gainer reviews,commercial_variant,4339,High,0.89,1.98
+cheap mass gainer,commercial_variant,1373,Medium,0.48,1.2
+mass gainer discount,commercial_variant,2999,High,0.66,1.89
+mass gainer deals,commercial_variant,630,High,0.72,1.99
+mass gainer offers,commercial_variant,3968,Low,0.27,0.75
+order mass gainer,commercial_variant,3519,High,0.66,2.18
+mass gainer purchase,commercial_variant,3418,Low,0.29,0.79
+where to buy mass gainer,commercial_variant,2636,High,0.77,1.61
+mass gainer for sale,commercial_variant,3881,High,0.95,1.83
+nutrabay whey protein,brand_variant,500,Low,0.24,0.71
+nutrabay protein powder,brand_variant,500,Low,0.22,0.7
+nutrabay gym supplements,brand_variant,1110,Low,0.26,0.79
+nutrabay fitness nutrition,brand_variant,978,Low,0.26,0.7
+nutrabay muscle building supplements,brand_variant,1017,Low,0.28,0.77
+nutrabay pre workout,brand_variant,516,Low,0.24,0.78
+nutrabay protein isolate,brand_variant,500,Low,0.23,0.73
+nutrabay bodybuilding supplements,brand_variant,1050,Low,0.29,0.72
+nutrabay sports nutrition,brand_variant,525,Low,0.25,0.81
+nutrabay mass gainer,brand_variant,952,Low,0.27,0.68
+whey protein nutrabay,brand_variant,500,Low,0.21,0.68
+protein powder nutrabay,brand_variant,1416,Low,0.26,0.74
+gym supplements nutrabay,brand_variant,1016,Low,0.21,0.82
+fitness nutrition nutrabay,brand_variant,966,Low,0.25,0.71
+muscle building supplements nutrabay,brand_variant,1146,Low,0.25,0.78
+pre workout nutrabay,brand_variant,953,Low,0.21,0.72
+protein isolate nutrabay,brand_variant,1055,Low,0.28,0.74
+bodybuilding supplements nutrabay,brand_variant,1468,Low,0.25,0.74
+sports nutrition nutrabay,brand_variant,979,Low,0.2,0.7
+mass gainer nutrabay,brand_variant,648,Low,0.24,0.71
+nutrabay,brand_variant,596,Low,0.2,0.8
+nutrabay official,brand_variant,620,Low,0.3,0.79
+nutrabay website,brand_variant,1431,Low,0.29,0.71
+nutrabay store,brand_variant,618,Low,0.3,0.7
+nutrabay products,brand_variant,500,Low,0.3,0.82
+nutrabay reviews,brand_variant,500,Low,0.27,0.82
+nutrabay price,brand_variant,500,Low,0.26,0.71
+nutrabay contact,brand_variant,500,Low,0.24,0.76
+nutrabay support,brand_variant,500,Low,0.21,0.77
+bigmuscles nutrition alternative,competitor_variant,995,Medium,0.6,1.17
+alternative to bigmuscles nutrition,competitor_variant,3778,Medium,0.56,1.35
+bigmuscles nutrition vs nutrabay,competitor_variant,3032,Medium,0.59,1.37
+nutrabay vs bigmuscles nutrition,competitor_variant,3778,Medium,0.5,1.37
+bigmuscles nutrition competitor,competitor_variant,1528,Medium,0.55,1.17
+better than bigmuscles nutrition,competitor_variant,4491,Medium,0.5,1.3
+bigmuscles nutrition replacement,competitor_variant,4316,Medium,0.45,1.29
+like bigmuscles nutrition but better,competitor_variant,2336,Medium,0.43,0.93
+how to use whey protein,longtail_variant,1112,Medium,0.41,1.05
+what is whey protein,longtail_variant,1333,High,0.8,1.8
+whey protein benefits,longtail_variant,3063,High,0.64,1.94
+whey protein side effects,longtail_variant,985,High,0.94,1.89
+whey protein dosage,longtail_variant,1635,Medium,0.53,1.18
+best time to take whey protein,longtail_variant,2646,Medium,0.37,1.07
+whey protein for beginners,longtail_variant,2359,Low,0.27,0.69
+whey protein vs protein powder,longtail_variant,500,Medium,0.39,0.91
+natural whey protein,longtail_variant,1171,Low,0.25,0.77
+organic whey protein,longtail_variant,1172,Medium,0.42,1.2
+whey protein guide,longtail_variant,1233,Medium,0.48,1.35
+whey protein tips,longtail_variant,2117,High,0.96,1.82
+why use whey protein,longtail_variant,3151,Medium,0.55,1.22
+whey protein ingredients,longtail_variant,1708,High,0.77,2.1
+whey protein nutrition facts,longtail_variant,1504,Low,0.29,0.82
+how to use protein powder,longtail_variant,3517,High,0.66,1.55
+what is protein powder,longtail_variant,554,High,0.89,1.9
+protein powder benefits,longtail_variant,2833,Medium,0.51,1.21
+protein powder side effects,longtail_variant,500,Medium,0.53,1.19
+protein powder dosage,longtail_variant,3240,Medium,0.44,1.35
+best time to take protein powder,longtail_variant,1531,Low,0.17,0.6
+protein powder for beginners,longtail_variant,934,Medium,0.44,1.13
+protein powder vs protein powder,longtail_variant,2829,Medium,0.33,0.94
+natural protein powder,longtail_variant,750,Low,0.29,0.72
+organic protein powder,longtail_variant,500,Medium,0.59,1.27
+protein powder guide,longtail_variant,500,Low,0.24,0.76
+protein powder tips,longtail_variant,2741,Low,0.25,0.79
+why use protein powder,longtail_variant,2017,Low,0.23,0.73
+protein powder ingredients,longtail_variant,2315,High,0.93,2.18
+protein powder nutrition facts,longtail_variant,1155,Medium,0.58,1.23
+how to use gym supplements,longtail_variant,1181,High,0.71,1.59
+what is gym supplements,longtail_variant,2113,Medium,0.5,1.18
+gym supplements benefits,longtail_variant,3038,Medium,0.52,1.17
+gym supplements side effects,longtail_variant,500,Medium,0.47,1.34
+gym supplements dosage,longtail_variant,927,Medium,0.44,1.14
+best time to take gym supplements,longtail_variant,1467,Low,0.17,0.65
+gym supplements for beginners,longtail_variant,500,Medium,0.5,1.23
+gym supplements vs protein powder,longtail_variant,2015,Low,0.22,0.64
+natural gym supplements,longtail_variant,3104,Medium,0.47,1.3
+organic gym supplements,longtail_variant,2738,Medium,0.55,1.29
+gym supplements guide,longtail_variant,973,Low,0.22,0.81
+gym supplements tips,longtail_variant,2645,Low,0.25,0.72
+why use gym supplements,longtail_variant,821,Medium,0.49,1.13
+gym supplements ingredients,longtail_variant,500,Medium,0.43,1.32
+gym supplements nutrition facts,longtail_variant,500,Low,0.2,0.74
+how to use fitness nutrition,longtail_variant,1406,High,0.65,1.46
+what is fitness nutrition,longtail_variant,1918,Low,0.3,0.71
+fitness nutrition benefits,longtail_variant,717,Medium,0.46,1.2
+fitness nutrition side effects,longtail_variant,1429,High,0.71,1.8
+fitness nutrition dosage,longtail_variant,500,Low,0.27,0.82
+best time to take fitness nutrition,longtail_variant,566,Low,0.18,0.62
+fitness nutrition for beginners,longtail_variant,992,Low,0.27,0.8
+fitness nutrition vs protein powder,longtail_variant,768,Medium,0.39,0.96
+natural fitness nutrition,longtail_variant,3383,Low,0.23,0.78
+organic fitness nutrition,longtail_variant,1958,Medium,0.56,1.17
+fitness nutrition guide,longtail_variant,877,Low,0.24,0.81
+fitness nutrition tips,longtail_variant,1334,Medium,0.56,1.37
+why use fitness nutrition,longtail_variant,2127,High,0.88,1.96
+fitness nutrition ingredients,longtail_variant,900,High,0.83,2.06
+fitness nutrition nutrition facts,longtail_variant,1438,Medium,0.42,1.26
+how to use muscle building supplements,longtail_variant,729,Medium,0.43,0.93
+what is muscle building supplements,longtail_variant,1797,Medium,0.44,1.02
+muscle building supplements benefits,longtail_variant,2065,Medium,0.59,1.14
+muscle building supplements side effects,longtail_variant,961,Medium,0.36,1.02
+muscle building supplements dosage,longtail_variant,2303,Low,0.23,0.78
+best time to take muscle building supplements,longtail_variant,1837,High,0.71,1.47
+muscle building supplements for beginners,longtail_variant,995,Medium,0.4,1.0
+muscle building supplements vs protein powder,longtail_variant,950,Low,0.19,0.65
+natural muscle building supplements,longtail_variant,2691,Medium,0.57,1.3
+organic muscle building supplements,longtail_variant,699,Medium,0.54,1.24
+muscle building supplements guide,longtail_variant,3077,High,0.93,2.08
+muscle building supplements tips,longtail_variant,500,Medium,0.55,1.34
+why use muscle building supplements,longtail_variant,1962,Medium,0.36,1.06
+muscle building supplements ingredients,longtail_variant,1469,Low,0.22,0.73
+muscle building supplements nutrition facts,longtail_variant,1358,Medium,0.37,1.1
+how to use pre workout,longtail_variant,1931,Medium,0.46,1.04
+what is pre workout,longtail_variant,500,Low,0.27,0.76
+pre workout benefits,longtail_variant,2943,Low,0.29,0.75
+pre workout side effects,longtail_variant,853,Medium,0.48,1.17
+pre workout dosage,longtail_variant,2134,Low,0.28,0.79
+best time to take pre workout,longtail_variant,851,Medium,0.38,0.91
+pre workout for beginners,longtail_variant,1200,Low,0.28,0.68
+pre workout vs protein powder,longtail_variant,1484,Low,0.22,0.66
+natural pre workout,longtail_variant,1312,Low,0.24,0.71
+organic pre workout,longtail_variant,802,High,0.87,2.13
+pre workout guide,longtail_variant,3501,High,0.81,2.19
+pre workout tips,longtail_variant,865,High,0.66,2.0
+why use pre workout,longtail_variant,757,Medium,0.54,1.34
+pre workout ingredients,longtail_variant,2379,Low,0.22,0.8
+pre workout nutrition facts,longtail_variant,1956,Medium,0.51,1.22
+how to use protein isolate,longtail_variant,634,Medium,0.34,1.07
+what is protein isolate,longtail_variant,1785,High,0.69,1.92
+protein isolate benefits,longtail_variant,579,Low,0.23,0.81
+protein isolate side effects,longtail_variant,2664,Medium,0.53,1.32
+protein isolate dosage,longtail_variant,517,Low,0.23,0.77
+best time to take protein isolate,longtail_variant,2030,Medium,0.41,1.07
+protein isolate for beginners,longtail_variant,2398,Medium,0.58,1.13
+protein isolate vs protein powder,longtail_variant,3239,Medium,0.43,0.91
+natural protein isolate,longtail_variant,1334,Medium,0.51,1.2
+organic protein isolate,longtail_variant,1894,Medium,0.46,1.21
+protein isolate guide,longtail_variant,1190,Medium,0.52,1.21
+protein isolate tips,longtail_variant,2083,Medium,0.55,1.23
+why use protein isolate,longtail_variant,3182,High,0.66,2.11
+protein isolate ingredients,longtail_variant,1449,High,0.73,1.97
+protein isolate nutrition facts,longtail_variant,774,Medium,0.54,1.21
+how to use bodybuilding supplements,longtail_variant,1740,Medium,0.33,0.97
+what is bodybuilding supplements,longtail_variant,3168,Medium,0.59,1.29
+bodybuilding supplements benefits,longtail_variant,1878,Medium,0.53,1.28
+bodybuilding supplements side effects,longtail_variant,655,Low,0.22,0.74
+bodybuilding supplements dosage,longtail_variant,500,High,0.88,1.84
+best time to take bodybuilding supplements,longtail_variant,1944,Low,0.18,0.57
+bodybuilding supplements for beginners,longtail_variant,1183,High,0.78,2.19
+bodybuilding supplements vs protein powder,longtail_variant,690,Medium,0.33,1.0
+natural bodybuilding supplements,longtail_variant,2475,Medium,0.44,1.37
+organic bodybuilding supplements,longtail_variant,1262,Medium,0.42,1.23
+bodybuilding supplements guide,longtail_variant,1253,High,0.88,2.08
+bodybuilding supplements tips,longtail_variant,1206,Medium,0.48,1.21
+why use bodybuilding supplements,longtail_variant,588,Medium,0.48,1.19
+bodybuilding supplements ingredients,longtail_variant,1664,Low,0.22,0.75
+bodybuilding supplements nutrition facts,longtail_variant,1074,Medium,0.45,1.2
+how to use sports nutrition,longtail_variant,754,Low,0.21,0.66
+what is sports nutrition,longtail_variant,1611,Medium,0.52,1.14
+sports nutrition benefits,longtail_variant,2215,Medium,0.42,1.36
+sports nutrition side effects,longtail_variant,911,Medium,0.46,1.15
+sports nutrition dosage,longtail_variant,2773,Low,0.26,0.77
+best time to take sports nutrition,longtail_variant,1634,Low,0.21,0.57
+sports nutrition for beginners,longtail_variant,500,Medium,0.4,1.37
+sports nutrition vs protein powder,longtail_variant,3137,Low,0.18,0.62
+natural sports nutrition,longtail_variant,1960,Low,0.27,0.77
+organic sports nutrition,longtail_variant,2930,Low,0.23,0.72
+sports nutrition guide,longtail_variant,500,High,0.83,2.15
+sports nutrition tips,longtail_variant,2239,Medium,0.59,1.15
+why use sports nutrition,longtail_variant,1044,Medium,0.43,1.36
+sports nutrition ingredients,longtail_variant,2396,Low,0.27,0.81
+sports nutrition nutrition facts,longtail_variant,3261,Medium,0.44,1.27
+how to use mass gainer,longtail_variant,2308,Medium,0.43,1.04
+what is mass gainer,longtail_variant,3450,Medium,0.48,1.13
+mass gainer benefits,longtail_variant,3472,Low,0.26,0.71
+mass gainer side effects,longtail_variant,1131,Low,0.25,0.82
+mass gainer dosage,longtail_variant,3038,Low,0.24,0.8
+best time to take mass gainer,longtail_variant,1854,Medium,0.35,1.03
+mass gainer for beginners,longtail_variant,1725,Medium,0.6,1.15
+mass gainer vs protein powder,longtail_variant,713,Low,0.16,0.59
+natural mass gainer,longtail_variant,1695,Low,0.21,0.79
+organic mass gainer,longtail_variant,1087,Low,0.29,0.74
+mass gainer guide,longtail_variant,1844,High,0.72,1.97
+mass gainer tips,longtail_variant,1122,Low,0.27,0.68
+why use mass gainer,longtail_variant,2310,Medium,0.52,1.28
+mass gainer ingredients,longtail_variant,891,Medium,0.53,1.19
+mass gainer nutrition facts,longtail_variant,3192,Medium,0.54,1.15

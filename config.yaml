@@ -1,0 +1,61 @@
+# SEM Campaign Configuration
+project:
+  name: "SEM Campaign Generator"
+  version: "1.0.0"
+  author: "Vijayshree Vaibhav"
+
+brand:
+  url: "https://www.nutrabay.com"
+  name: "Nutrabay"
+
+competitor:
+  url: "https://www.bigmusclesnutrition.com"
+  name: "BigMuscles Nutrition"
+
+service_locations:
+  - "Mumbai"
+  - "Delhi"
+  - "Bengaluru"
+  - "Pune"
+  - "Hyderabad"
+
+budgets:
+  search_ads: 4000
+  shopping_ads: 3000
+  pmax_ads: 3000
+  total_monthly: 10000
+
+campaign_constraints:
+  min_search_volume: 500
+  target_conversion_rate: 0.02
+  target_cpa: 30
+  max_cpc: 2.0
+  min_keyword_length: 2
+  max_keyword_length: 50
+
+seed_keywords:
+  - "whey protein"
+  - "protein powder"
+  - "gym supplements"
+  - "fitness nutrition"
+  - "muscle building supplements"
+  - "pre workout"
+  - "protein isolate"
+  - "bodybuilding supplements"
+  - "sports nutrition"
+  - "mass gainer"
+
+data_sources:
+  use_simulated_data: true
+  planner_csv_path: ""
+  external_api_enabled: false
+
+output_settings:
+  directory: "output"
+  file_formats: ["xlsx", "csv"]
+  include_charts: false
+
+execution_settings:
+  verbose_logging: true
+  save_intermediate_files: true
+  parallel_processing: false

@@ -1,0 +1,4 @@
+product_category,category_description,priority_level,avg_monthly_volume,competition_level,top_of_page_bid_low,top_of_page_bid_high,target_cpc_formula,suggested_cpc,margin_factor,monthly_budget,expected_monthly_clicks,expected_monthly_conversions,bidding_strategy
+Vegan Protein Products,Plant-based protein powders and supplements,High,1582.0,Medium,0.45,1.12,0.6,0.72,1.2,1250.0,1736.0,34.7,Target CPA bidding with volume focus
+Recovery Supplements,Post-workout and muscle recovery products,High,2279.0,Medium,0.43,1.12,0.6,0.66,1.1,1083.0,1641.0,32.8,Target CPA bidding with volume focus
+General Protein Supplements,Standard protein powders and supplements,Medium,2112.0,Medium,0.45,1.14,0.6,0.54,0.9,667.0,1235.0,24.7,Balanced Target CPA approach
