@@ -101,7 +101,7 @@ flowchart TD
 
     subgraph Output
         F[Exporter]
-        G[Excel/CSV Output Files]
+        G[Excel/CSV Output]
     end
 
     A --> B
