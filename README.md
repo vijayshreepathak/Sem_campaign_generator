@@ -92,7 +92,6 @@ filters:
 
 ## 🖥 System Design Diagram
 
-> GitHub supports Mermaid diagrams in README files. If your viewer doesn't show it, view the README directly on GitHub.
 
 ```mermaid
 flowchart TD
