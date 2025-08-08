@@ -88,14 +88,14 @@ filters:
 
 ```mermaid
 flowchart TD
-    A[config.yaml] --> B[Main Script (main.py)]
+    A[config.yaml] --> B[Main Script main.py]
     B --> C[Keyword Generator]
     C --> D[Data Processor]
     D --> E[Campaign Builder]
     E --> F[Exporter]
     F --> G[Excel/CSV Output]
 
-    subgraph User Inputs
+    subgraph User_Inputs
         A
     end
 
