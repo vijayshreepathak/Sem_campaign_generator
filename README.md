@@ -39,8 +39,6 @@ sem\_campaign\_generator/
 
 ````
 
----
-
 ## ⚙️ Installation
 
 1. **Clone the repository**
