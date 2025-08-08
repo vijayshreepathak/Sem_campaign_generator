@@ -22,20 +22,22 @@ The tool builds **search ad groups, Performance Max themes, and shopping recomme
 
 ## 📂 Project Structure
 ```
-sem_campaign_generator/
+
+sem\_campaign\_generator/
 │
 ├── config.yaml                # Configuration file
 ├── main.py                    # Main entry point
 ├── requirements.txt           # Python dependencies
 ├── src/                       # Source code
-│   ├── keyword_generator.py
-│   ├── data_processor.py
-│   ├── campaign_builder.py
+│   ├── keyword\_generator.py
+│   ├── data\_processor.py
+│   ├── campaign\_builder.py
 │   ├── exporter.py
 │   ├── utils.py
 │
 └── output/                    # Generated campaign files
-```
+
+````
 
 ---
 
@@ -45,15 +47,21 @@ sem_campaign_generator/
    ```bash
    git clone https://github.com/vijayshreepathak/Sem_campaign_generator.git
    cd Sem_campaign_generator
+````
 
 2. **Set up a virtual environment**
+
    ```bash
    python -m venv venv
-   source venv/bin/activate     # Mac/Linux
-   venv\Scripts\activate        # Windows
+   # Activate:
+   # Mac/Linux:
+   source venv/bin/activate
+   # Windows (PowerShell):
+   venv\Scripts\activate
    ```
 
 3. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -62,7 +70,7 @@ sem_campaign_generator/
 
 ## 📝 Configuration (`config.yaml`)
 
-Below is an **example config** for **Nutrabay** as a brand and **BigMuscles Nutrition** as a competitor.  
+Below is an **example config** for **Nutrabay** as a brand and **BigMuscles Nutrition** as a competitor.
 📌 *You can replace them with **any website or brand names** based on your usage.*
 
 ```yaml
@@ -84,7 +92,10 @@ filters:
 ```
 
 ---
+
 ## 🖥 System Design Diagram
+
+> GitHub supports Mermaid diagrams in README files. If your viewer doesn't show it, view the README directly on GitHub.
 
 ```mermaid
 flowchart TD
@@ -111,18 +122,17 @@ flowchart TD
     E --> F
     F --> G
 
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#f3e5f5
-    style D fill:#f3e5f5
-    style E fill:#f3e5f5
-    style F fill:#e8f5e8
-    style G fill:#e8f5e8
-
-
-
+    style A fill:#e1f5fe,stroke:#333,stroke-width:1px
+    style B fill:#f3e5f5,stroke:#333,stroke-width:1px
+    style C fill:#f3e5f5,stroke:#333,stroke-width:1px
+    style D fill:#f3e5f5,stroke:#333,stroke-width:1px
+    style E fill:#f3e5f5,stroke:#333,stroke-width:1px
+    style F fill:#e8f5e8,stroke:#333,stroke-width:1px
+    style G fill:#e8f5e8,stroke:#333,stroke-width:1px
+```
 
 **How it works:**
+
 1. **Config File** — Defines brand, competitor, filters, and campaign rules.
 2. **Keyword Generator** — Expands seed terms and fetches related keywords.
 3. **Data Processor** — Cleans, filters, and applies constraints.
@@ -134,11 +144,13 @@ flowchart TD
 ## ▶️ Running the Tool
 
 ### Basic Run
+
 ```bash
 python main.py
 ```
 
 ### Run with Custom Config and Verbose Output
+
 ```bash
 python main.py --config config.yaml --verbose
 ```
@@ -148,41 +160,51 @@ python main.py --config config.yaml --verbose
 ## 📊 Example Output
 
 After running, the tool will produce:
-- **Search Campaign Ad Groups** (`search_adgroups.xlsx`)
-- **Performance Max Themes**
-- **Shopping Campaign Recommendations`
+
+* **Search Campaign Ad Groups** (`search_adgroups.xlsx`)
+* **Performance Max Themes**
+* **Shopping Campaign Recommendations**
 
 All stored in the `/output` directory.
 
 ---
 
 ## 🚀 Customization
-- Replace the `brand` and `competitor` URLs/names in `config.yaml` to match your business
-- Adjust `filters` to fine-tune keyword selection
-- Add/remove keyword categories in `keyword_generator.py` to suit your niche
+
+* Replace the `brand` and `competitor` URLs/names in `config.yaml` to match your business.
+* Adjust `filters` to fine-tune keyword selection.
+* Add/remove keyword categories in `keyword_generator.py` to suit your niche.
 
 ---
 
 ## 🛠 Dependencies
-- Python 3.8+
-- pandas
-- openpyxl
-- scikit-learn
-- pyyaml
-- tqdm
+
+* Python 3.8+
+* pandas
+* openpyxl
+* scikit-learn
+* pyyaml
+* tqdm
+
+(Install via `pip install -r requirements.txt`)
 
 ---
 
 ## 📄 License
-MIT License.  
+
+MIT License.
 Free for personal and commercial use — attribution appreciated.
 
 ---
 
 ## ✨ Author
+
 **Vijayshree Vaibhav** (Ex-Snapchat, Cube)
 
 ---
+
 ```
 
 ---
+- Also produce a PNG export of the Mermaid diagram (if you prefer an image fallback for viewers that don't render Mermaid). Which would you like next?
+```
